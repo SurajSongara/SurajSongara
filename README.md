@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SurajSongara
 - 👀 I’m interested in ...Python Programming Web development
-- 🌱 I’m currently learning ...Django
+- 🌱 I’m Django developer.
 - 💞️ I’m looking to collaborate on ...Machine learning and Web development Communities
 - 📫 How to reach me ...surajskushwah2000@gmail.com
 
