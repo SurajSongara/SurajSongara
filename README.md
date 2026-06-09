@@ -19,4 +19,4 @@ Currently focused on LLM orchestration, agentic workflows, and AI infrastructure
 
 ### Connect
 
-surajskushwah2000@gmail.com
+https://www.linkedin.com/in/surajsongara/
